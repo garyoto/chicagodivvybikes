@@ -20,6 +20,7 @@ ndict['feature'] = newd
 #add geojson metadata
 ndict['type'] = 'FeatureCollection'
 
+#add geometry
 
 
 gj = open('divvybikestations.json', 'w')
